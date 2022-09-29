@@ -8,3 +8,4 @@
 String name = suji;
 
 System.out.println(name + "는 바보")
+//히히힣
