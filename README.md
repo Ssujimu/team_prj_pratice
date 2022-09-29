@@ -6,4 +6,5 @@
 이게 내가 보기엔 수정 가능한듯 !!
 
 String name = suji;
+
 System.out.println(name + "는 바보")
